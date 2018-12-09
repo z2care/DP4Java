@@ -1,5 +1,5 @@
 # DP4Java
-Design patterns implement with python.<br />
+Design patterns implement with java.<br />
 单一职责原则：一个类只有一个职责。<br />
 里氏替换原则：父类可以用子类代替。<br />
 依赖倒置原则：面向接口编程。<br />
